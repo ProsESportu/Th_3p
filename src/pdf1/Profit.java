@@ -1,3 +1,5 @@
+package pdf1;
+
 public class Profit {
     public static void main(String[] args) {
         double sales = 4.6e9;

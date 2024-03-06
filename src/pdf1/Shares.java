@@ -1,3 +1,5 @@
+package pdf1;
+
 public class Shares {
     public static void main(String[] args) {
         final double sharesCount = 600;

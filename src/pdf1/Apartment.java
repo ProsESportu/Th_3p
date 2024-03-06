@@ -1,3 +1,5 @@
+package pdf1;
+
 public class Apartment {
     public static void main(String[] args) {
         int pom1x = 3;

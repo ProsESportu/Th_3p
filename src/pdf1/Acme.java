@@ -1,3 +1,5 @@
+package pdf1;
+
 public class Acme {
     public static void main(String[] args) {
         final double sharesCount = 1000;

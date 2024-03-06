@@ -1,3 +1,5 @@
+package pdf1;
+
 public class EnergyDrink {
     public static void main(String[] args) {
         final double customers = 12_467;

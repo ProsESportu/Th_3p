@@ -1,3 +1,5 @@
+package pdf1;
+
 public class CookieRecipe {
     public static void main(String[] args) {
         final double sugar = 1.5;

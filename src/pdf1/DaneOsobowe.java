@@ -1,3 +1,5 @@
+package pdf1;
+
 public class DaneOsobowe {
     public static void main(String[] args) {
         //2024-03-01
